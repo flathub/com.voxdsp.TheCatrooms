@@ -36,4 +36,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/mrbid/catrooms.git
-        commit: 74cc95aca5333bfb40b1499a82b6d044fff2fba5
+        commit: c3c3d55527080d9cfb68cf3c01b2e78d0e2dd40f
